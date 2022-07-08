@@ -59,7 +59,7 @@ public class Fibnocis {
 		int n=sc.nextInt();
 		System.out.println("enter the choice");
 		int choice=sc.nextInt();
-		
+		System.out.println("good morning");
 		System.out.println("enter");
 		switch(choice) {
 		
